@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login not working",
+    "description": "Customer unable to log into the web portal using their credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-01T09:45:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway timeout",
+    "description": "Checkout process fails when processing payments via credit card.",
+    "customer": "Sarah Miller",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-02T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow page loading",
+    "description": "Website performance is slow on product listing pages.",
+    "customer": "Alex Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-03T15:20:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Error 404 on dashboard",
+    "description": "User dashboard page returns a 404 error after login.",
+    "customer": "Emma Brown",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-29T10:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Unable to reset password",
+    "description": "Password reset link does not send to the user’s email.",
+    "customer": "Michael Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-04T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Mobile layout issue",
+    "description": "Layout broken on iPhone Safari browser for home page.",
+    "customer": "Lily Evans",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-30T16:25:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Email notifications not received",
+    "description": "Customer not receiving order confirmation emails.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-05T11:15:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Refund request not processed",
+    "description": "Customer refund request stuck in pending state for 5 days.",
+    "customer": "Sophia Patel",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-06T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Search bar not returning results",
+    "description": "Search functionality broken for product queries.",
+    "customer": "James Anderson",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-28T18:40:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Account locked after multiple login attempts",
+    "description": "User account gets permanently locked without recovery option.",
+    "customer": "Olivia Green",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-07T13:55:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Broken image links",
+    "description": "Product images not loading on category pages.",
+    "customer": "Ethan Carter",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-08T07:50:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Duplicate orders placed",
+    "description": "System creates two identical orders after one checkout attempt.",
+    "customer": "Mia Taylor",
+    "priority": "Critical",
+    "status": "Resolved",
+    "createdAt": "2025-10-09T14:10:00Z"
+  }
+]
